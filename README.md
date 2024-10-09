@@ -1,7 +1,8 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:df6d74,100:c6a86f&height=300&section=header&text=Hello,%20I'm%20YunMi%20!&fontSize=80)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongYunMi&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeongYunMi&show_icons=true&theme=onedark&hide_border=true&count_private=true" width=56% />
 </a>
 
 <!--
