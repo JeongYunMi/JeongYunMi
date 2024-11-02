@@ -8,7 +8,8 @@
   💬 함께 정한 기한은 반드시 지키려고 노력해요. <br/>
   💬 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾아요. <br/>
   💬 문서화와 기록을 중요하게 생각해요. <br/>
-  
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongYunMi%2Fhit-counter&count_bg=%23EAA2A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br/>
   
   ## ✨ Tech Stacks ✨
